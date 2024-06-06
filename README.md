@@ -4,10 +4,11 @@ Ten projekt to aplikacja do zarządzania książkami w bibliotece. Jest przeznac
   Funkcjonalności
 Kategorie książek:
 Użytkownik może dodawać, usuwać i modyfikować kategorie książek.
-Każda książka musi być przypisana do co najmniej jednej kategorii
+
   Książki:
 Użytkownik może dodawać, usuwać i modyfikować informacje o książkach (tytuł, autor, rok wydania, opis, itp.).
 Książki są przypisywane do kategorii.
+
   Wypożyczenia:
 System obsługuje wypożyczenia książek.
 Każde wypożyczenie zawiera informacje o książce, osobie wypożyczającej, dacie wypożyczenia i dacie zwrotu.
