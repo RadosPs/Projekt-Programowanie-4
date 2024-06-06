@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka.Desktop\\Biblioteka.Desktop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka.Desktop\\Biblioteka.Desktop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka.Desktop\\Biblioteka.Desktop.csproj",
+        "projectName": "Biblioteka.Desktop",
+        "projectPath": "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka.Desktop\\Biblioteka.Desktop.csproj",
+        "packagesPath": "C:\\Users\\Mateusz Gałuszka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka.Desktop\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mateusz Gałuszka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka\\Biblioteka.csproj": {
+                "projectPath": "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka\\Biblioteka.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka\\Biblioteka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka\\Biblioteka.csproj",
+        "projectName": "Biblioteka",
+        "projectPath": "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka\\Biblioteka.csproj",
+        "packagesPath": "C:\\Users\\Mateusz Gałuszka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateusz Gałuszka\\OneDrive - Zasław TSS Sp. z o.o. Sp. K (1)\\Pulpit\\Projekt Szkoła\\Biblioteka\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mateusz Gałuszka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.ReactiveUI": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
