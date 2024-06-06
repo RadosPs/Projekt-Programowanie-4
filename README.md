@@ -1,5 +1,5 @@
-Opis projektu
-Ten projekt to aplikacja do zarządzania książkami w bibliotece. Jest przeznaczona dla osób pracujących w bibliotece, umożliwiając im dodawanie, usuwanie, modyfikowanie i wyświetlanie kategorii książek oraz samych książek.
+
+Celem projektu jest stworzenie aplikacji, która ułatwi pracownikom biblioteki zarządzanie księgozbiorem. Aplikacja ma umożliwić dodawanie, usuwanie, modyfikowanie i wyświetlanie kategorii książek oraz samych książek.
 
   Funkcjonalności
 Kategorie książek:
