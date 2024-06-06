@@ -4,7 +4,7 @@ Ten projekt to aplikacja do zarządzania książkami w bibliotece. Jest przeznac
   Funkcjonalności
 Kategorie książek:
 Użytkownik może dodawać, usuwać i modyfikować kategorie książek.
-Każda książka musi być przypisana do co najmniej jednej kategorii (np. Stephen King - “IT” <-> Horror).
+Każda książka musi być przypisana do co najmniej jednej kategorii
   Książki:
 Użytkownik może dodawać, usuwać i modyfikować informacje o książkach (tytuł, autor, rok wydania, opis, itp.).
 Książki są przypisywane do kategorii.
