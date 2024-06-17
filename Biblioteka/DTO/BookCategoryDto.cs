@@ -1,12 +1,15 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Biblioteka.DTO
+
 {
-    internal class BookCategory
+    public class BookCategoryDto
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
